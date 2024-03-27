@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "firebase-notification",
+    "slug": "firebase-notification",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
